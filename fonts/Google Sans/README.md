@@ -1,2 +1,2 @@
 # Google Sans
-These TTFs were taken from this repository: https://github.com/hprobotic/Google-Sans-Font
+Downloaded from this Github Repository: https://github.com/hprobotic/Google-Sans-Font
